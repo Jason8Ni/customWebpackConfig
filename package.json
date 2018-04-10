@@ -16,8 +16,31 @@
   "dependencies": {
     "ts-loader": "^4.2.0",
     "typescript": "^2.8.1",
-    "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "async": "^2.6.0",
+    "bcrypt-nodejs": "^0.0.3",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.1",
+    "connect-mongo": "^2.0.0",
+    "dotenv": "^4.0.0",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.2",
+    "express-flash": "0.0.2",
+    "express-session": "^1.15.6",
+    "express-validator": "^4.3.0",
+    "fbgraph": "^1.4.1",
+    "lodash": "^4.17.4",
+    "lusca": "^1.5.2",
+    "mongoose": "^4.13.11",
+    "nodemailer": "^4.4.1",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "passport-local": "^1.0.0",
+    "pug": "^2.0.0-rc.4",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "winston": "^2.4.0"
+
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
