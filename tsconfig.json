@@ -18,7 +18,11 @@
         "test/**/*.ts"
     ],
     "exclude": [
-        "node_modules"
+        "node_modules",
+        "build",
+        "scripts",
+        "acceptance-tests",
+        "webpack",
     ],
     "compileOnSave": false,
     "strictNullChecks": true,
